@@ -1,4 +1,4 @@
-# DIP M'24 Assignment 2
+# DIP M'24 Assignment 3
 ### Submission Format
 
 Follow the directory structure for your submission repository
